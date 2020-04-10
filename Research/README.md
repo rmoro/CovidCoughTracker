@@ -1,4 +1,4 @@
-# DeepCough Research Compilation:
+# CovidCoughTracker Research Compilation:
 
 Here I will keep copies of any relavent papers and general research that pertain
 to the underlying goal which is to detect and track coughs in a public space
